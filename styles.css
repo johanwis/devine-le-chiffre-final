@@ -1,0 +1,21 @@
+body
+{
+    text-align: center;
+    background: #393939;
+    color: white;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+    border-radius: 5px ;
+    font-size: 30px;
+    border: 1px solid black;
+    background: #ffad00;
+}
+#WARNING
+{
+    color: red;
+    text-decoration: underline;
+    font-size: 24.5px;
+}
